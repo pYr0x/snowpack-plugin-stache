@@ -1,0 +1,20 @@
+{
+  "name": "snowpack-plugin-stache",
+  "version": "0.0.1",
+  "main": "plugin.js",
+  "license": "MIT",
+  "dependencies": {
+    "can-stache-ast": "^1.1.0"
+  },
+  "devDependencies": {
+    "can-stache": "^5.1.1",
+    "can-stache-bindings": "^5.0.4",
+    "can-view-import": "^5.0.0",
+    "can-view-scope": "^4.13.6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "description": ""
+}
